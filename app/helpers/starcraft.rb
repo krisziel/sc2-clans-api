@@ -1,0 +1,2 @@
+module Starcraft
+end
